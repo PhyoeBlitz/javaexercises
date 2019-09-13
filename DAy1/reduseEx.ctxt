@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=reduseEx
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ total
+comment2.target=int\ reduse(int[],\ int)
+numComments=3
