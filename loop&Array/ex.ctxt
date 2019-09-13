@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ex
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=size
+comment2.target=int[]\ rangeCount(int)
+comment3.params=a\ low\ high
+comment3.target=int\ inRange(int[],\ int,\ int)
+numComments=4
